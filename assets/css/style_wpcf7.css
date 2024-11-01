@@ -1,0 +1,154 @@
+#wpcf7_aomailer .ao-container {
+	width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+} 
+#wpcf7_aomailer .ao-row {
+	display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+#wpcf7_aomailer .ao-col, 
+#wpcf7_aomailer .ao-col-1, 
+#wpcf7_aomailer .ao-col-10, 
+#wpcf7_aomailer .ao-col-11, 
+#wpcf7_aomailer .ao-col-12, 
+#wpcf7_aomailer .ao-col-2, 
+#wpcf7_aomailer .ao-col-3, 
+#wpcf7_aomailer .ao-col-4,
+#wpcf7_aomailer .ao-col-5,
+#wpcf7_aomailer .ao-col-6,
+#wpcf7_aomailer .ao-col-7,
+#wpcf7_aomailer .ao-col-8,
+#wpcf7_aomailer .ao-col-9 {
+	position: relative;
+    width: 100%;
+    min-height: 1px;
+}
+#wpcf7_aomailer .ao-col {
+	-ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+#wpcf7_aomailer .ao-col-1 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+}
+#wpcf7_aomailer .ao-col-2 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+}
+#wpcf7_aomailer .ao-col-3 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+#wpcf7_aomailer .ao-col-4 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+#wpcf7_aomailer .ao-col-5 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+#wpcf7_aomailer .ao-col-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+#wpcf7_aomailer .ao-col-7 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+#wpcf7_aomailer .ao-col-8 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+#wpcf7_aomailer .ao-col-9 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+#wpcf7_aomailer .ao-col-10 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+}
+#wpcf7_aomailer .ao-col-11 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+}
+#wpcf7_aomailer .ao-col-12 {
+	-webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+#wpcf7_aomailer .ao-col-content {
+	padding: 0 15px;
+}
+#wpcf7_aomailer .ao-tags {
+	cursor:	pointer;
+	padding-top: 2px;
+	display: inline-block;
+}
+@media screen and (max-width: 567px) {
+	#wpcf7_aomailer .ao-col, 
+	#wpcf7_aomailer .ao-col-1, 
+	#wpcf7_aomailer .ao-col-10, 
+	#wpcf7_aomailer .ao-col-11, 
+	#wpcf7_aomailer .ao-col-12, 
+	#wpcf7_aomailer .ao-col-2, 
+	#wpcf7_aomailer .ao-col-3, 
+	#wpcf7_aomailer .ao-col-4,
+	#wpcf7_aomailer .ao-col-5,
+	#wpcf7_aomailer .ao-col-6,
+	#wpcf7_aomailer .ao-col-7,
+	#wpcf7_aomailer .ao-col-8,
+	#wpcf7_aomailer .ao-col-9 {
+		-webkit-box-flex: 0;
+	    -ms-flex: 0 0 100%;
+	    flex: 0 0 100%;
+	    max-width: 100%;
+	    padding-top: 10px;
+	    padding-bottom: 10px;
+	}
+	#wpcf7_aomailer .ao-row {
+	    padding-top: 0;
+	    padding-bottom: 0;
+	}
+	#wpcf7_aomailer .ao-col-content {
+	    padding-left: 0;
+	    padding-right: 0;
+	}
+	#wpcf7_aomailer .ao-col-3.ao-order {
+	    order: 2;
+	}
+	#wpcf7_aomailer .ao-col-6.ao-order {
+	    order: 3;
+	}
+}

@@ -1,0 +1,510 @@
+# Copyright (C) 2015 Aomailer
+msgid ""
+msgstr ""
+"Project-Id-Version: Aomailer 1.0.14\n"
+"POT-Creation-Date: 2015-06-25 10:17+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-12-10 11:24+0300\n"
+"Language-Team: LANG <admin@muzu.ru>\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_GB\n"
+
+#: ../aomailercf_plugin.php:1
+msgid "Error Install"
+msgstr "WooCommerce plugin is missing, activation is not possible!"
+
+#: ../aomailercf_plugin.php:2
+msgid "Aomailer"
+msgstr "SMS & Email Notifications"
+
+#: ../aomailercf_plugin.php:3
+msgid "Settings"
+msgstr "Settings"
+
+#: ../aomailercf_plugin.php:4
+msgid "SettingsSMS"
+msgstr "TargetSMS "
+
+#: ../aomailercf_plugin.php:5
+msgid "SettingsEmail"
+msgstr "Settings Email"
+
+#: ../aomailercf_plugin.php:6
+msgid "btnSave"
+msgstr "Save"
+
+#: ../aomailercf_plugin.php:7
+msgid "Events"
+msgstr "Events"
+
+#: ../aomailercf_plugin.php:8
+msgid "Templates"
+msgstr "Templates"
+
+#: ../aomailercf_plugin.php:9
+msgid "Mauling"
+msgstr "Newsletters"
+
+#: ../aomailercf_plugin.php:10
+msgid "Login"
+msgstr "Login"
+
+#: ../aomailercf_plugin.php:11
+msgid "Password"
+msgstr "Password"
+
+#: ../aomailercf_plugin.php:12
+msgid "FromName"
+msgstr "Signature"
+
+#: ../aomailercf_plugin.php:13
+msgid "Select"
+msgstr "Select..."
+
+#: ../aomailercf_plugin.php:14
+msgid "Balance"
+msgstr "Balance"
+
+#: ../aomailercf_plugin.php:15
+msgid "Connect"
+msgstr "Connect"
+
+#: ../aomailercf_plugin.php:16
+msgid "AddBalance"
+msgstr "Add Balance"
+
+#: ../aomailercf_plugin.php:17
+msgid "PersonalAccount"
+msgstr "Personal Account"
+
+#: ../aomailercf_plugin.php:18
+msgid "ConnectSuccess"
+msgstr "Settings Save"
+
+#: ../aomailercf_plugin.php:19
+msgid "EventUsed"
+msgstr "Used"
+
+#: ../aomailercf_plugin.php:20
+msgid "NewOrder"
+msgstr "New Order"
+
+#: ../aomailercf_plugin.php:21
+msgid "PaymentOrder"
+msgstr "Order Payment"
+
+#: ../aomailercf_plugin.php:22
+msgid "ChangeOrder"
+msgstr "Change Status"
+
+#: ../aomailercf_plugin.php:23
+msgid "TemplatesAdministrator"
+msgstr "Admin Templates"
+
+#: ../aomailercf_plugin.php:24
+msgid "TemplatesAdministratorWarning"
+msgstr "When you click on a regular expression tag, the tag will be selected and copied to the clipboard."
+
+#: ../aomailercf_plugin.php:25
+msgid "TemplatesClient"
+msgstr "Client Templates"
+
+#: ../aomailercf_plugin.php:26
+msgid "TemplatesClientWarning"
+msgstr "When you click on a regular expression tag, the tag will be selected and copied to the clipboard."
+
+#: ../aomailercf_plugin.php:27
+msgid "EventsAdministrator"
+msgstr "Admin Notifications"
+
+#: ../aomailercf_plugin.php:28
+msgid "EventsAdministratorWarning"
+msgstr " "
+
+#: ../aomailercf_plugin.php:29
+msgid "EventsClient"
+msgstr "Client Notifications"
+
+#: ../aomailercf_plugin.php:30
+msgid "EventsClientWarning"
+msgstr " "
+
+#: ../aomailercf_plugin.php:31
+msgid "Text of SMS:"
+msgstr "Message Text:"
+
+#: ../aomailercf_plugin.php:32
+msgid "EventsType"
+msgstr "Notification Type"
+
+#: ../aomailercf_plugin.php:33
+msgid "StoresName"
+msgstr "Online Store Name"
+
+#: ../aomailercf_plugin.php:34
+msgid "OrderID"
+msgstr "Order Number / ID"
+
+#: ../aomailercf_plugin.php:35
+msgid "OrderSum"
+msgstr "Order Price"
+
+#: ../aomailercf_plugin.php:36
+msgid "ClientName"
+msgstr "Client Name"
+
+#: ../aomailercf_plugin.php:37
+msgid "ClientLastName"
+msgstr "Client Surname"
+
+#: ../aomailercf_plugin.php:38
+msgid "OrderStatus"
+msgstr "Order Status"
+
+#: ../aomailercf_plugin.php:39
+msgid "AddrOrderDelivery"
+msgstr "Delivery address"
+
+#: ../aomailercf_plugin.php:40
+msgid "MethodOrderDelivery"
+msgstr "Order Delivery Method"
+
+#: ../aomailercf_plugin.php:41
+msgid "AddrPayment"
+msgstr "Payment Address"
+
+#: ../aomailercf_plugin.php:42
+msgid "MethodPayment"
+msgstr "Payment Method"
+
+#: ../aomailercf_plugin.php:43
+msgid "CountLetters"
+msgstr "Characters"
+
+#: ../aomailercf_plugin.php:44
+msgid "WaitingForPayment"
+msgstr "Pending Payment"
+
+#: ../aomailercf_plugin.php:45
+msgid "Treatment"
+msgstr "In Processing"
+
+#: ../aomailercf_plugin.php:46
+msgid "OnHold"
+msgstr "On Hold"
+
+#: ../aomailercf_plugin.php:47
+msgid "Done"
+msgstr "Completed"
+
+#: ../aomailercf_plugin.php:48
+msgid "Canceled"
+msgstr "Canceled"
+
+#: ../aomailercf_plugin.php:49
+msgid "Returned"
+msgstr "Returned"
+
+#: ../aomailercf_plugin.php:50
+msgid "Failed"
+msgstr "Error"
+
+#: ../aomailercf_plugin.php:51
+msgid "LengthOneSms"
+msgstr "One SMS Length: "
+
+#: ../aomailercf_plugin.php:52
+msgid "LengthOneSmsEng"
+msgstr "characters"
+
+#: ../aomailercf_plugin.php:53
+msgid "SizeMessage"
+msgstr "Message Size"
+
+#: ../aomailercf_plugin.php:54
+msgid "FromEmail"
+msgstr "Sender Email"
+
+#: ../aomailercf_plugin.php:55
+msgid "FromNameEmail"
+msgstr "Sender Signature"
+
+#: ../aomailercf_plugin.php:56
+msgid "ReplyTo"
+msgstr "Reply to Email"
+
+#: ../aomailercf_plugin.php:57
+msgid "ReplyToName"
+msgstr "Reply to name"
+
+#: ../aomailercf_plugin.php:58
+msgid "History"
+msgstr "History"
+
+#: ../aomailercf_plugin.php:59
+msgid "Help"
+msgstr "Help"
+
+#: ../aomailercf_plugin.php:60
+msgid "SettingsAdministrator"
+msgstr "Base Settings"
+
+#: ../aomailercf_plugin.php:61
+msgid "SettingsAdministratorWarning"
+msgstr " "
+
+#: ../aomailercf_plugin.php:62
+msgid "HistoryAdministrator"
+msgstr "History Messages"
+
+#: ../aomailercf_plugin.php:63
+msgid "HistoryAdministratorWarning"
+msgstr " "
+
+#: ../aomailercf_plugin.php:64
+msgid "btnSearch"
+msgstr "Search"
+
+#: ../aomailercf_plugin.php:65
+msgid "Phone"
+msgstr "Phone"
+
+#: ../aomailercf_plugin.php:66
+msgid "HelpTitle"
+msgstr "Help"
+
+#: ../aomailercf_plugin.php:67
+msgid "HelpWarning"
+msgstr " "
+
+#: ../aomailercf_plugin.php:68
+msgid "MailingTitle"
+msgstr "Newsletters"
+
+#: ../aomailercf_plugin.php:69
+msgid "MailingWarning"
+msgstr " "
+
+#: ../aomailercf_plugin.php:70
+msgid "SMS"
+msgstr "SMS"
+
+#: ../aomailercf_plugin.php:71
+msgid "No History"
+msgstr "History Not Found"
+
+#: ../aomailercf_plugin.php:72
+msgid "No Save"
+msgstr "Failed to save data."
+
+#: ../aomailercf_plugin.php:73
+msgid "btnSend"
+msgstr "Send"
+
+#: ../aomailercf_plugin.php:74
+msgid "SettingsAdministratorEmail"
+msgstr "Email Settings"
+
+#: ../aomailercf_plugin.php:75
+msgid "SettingsAdministratorWarningEmail"
+msgstr " "
+
+#: ../aomailercf_plugin.php:76
+msgid "EmailUsed"
+msgstr "Used"
+
+#: ../aomailercf_plugin.php:77
+msgid "All customers"
+msgstr "All Clients"
+
+#: ../aomailercf_plugin.php:78
+msgid "Use translit:"
+msgstr "Used Translit:"
+
+#: ../aomailercf_plugin.php:79
+msgid "Read the instructions on the website TargetSMS"
+msgstr "Read the instructions on the TargetSMS website"
+
+#: ../aomailercf_plugin.php:80
+msgid "Recipients"
+msgstr "Recipients"
+
+#: ../aomailercf_plugin.php:81
+msgid "departure date"
+msgstr "Send Date"
+
+#: ../aomailercf_plugin.php:82
+msgid "with status"
+msgstr "with status:"
+
+#: ../aomailercf_plugin.php:83
+msgid "Select recipients"
+msgstr "select recipients"
+
+#: ../aomailercf_plugin.php:84
+msgid "Missing data"
+msgstr "Missing Data"
+
+#: ../aomailercf_plugin.php:85
+msgid "Could not send newsletter"
+msgstr "Failed to send newsletter"
+
+#: ../aomailercf_plugin.php:86
+msgid "Message sent successfully"
+msgstr "Message sent successfully"
+
+#: ../aomailercf_plugin.php:87
+msgid "Period"
+msgstr "Period"
+
+#: ../aomailercf_plugin.php:88
+msgid "from"
+msgstr "from"
+
+#: ../aomailercf_plugin.php:89
+msgid "to"
+msgstr "to"
+
+#: ../aomailercf_plugin.php:90
+msgid "Operator"
+msgstr "Operator"
+
+#: ../aomailercf_plugin.php:91
+msgid "Number"
+msgstr "Number"
+
+#: ../aomailercf_plugin.php:92
+msgid "Send time"
+msgstr "Send Time"
+
+#: ../aomailercf_plugin.php:93
+msgid "Status"
+msgstr "Status"
+
+#: ../aomailercf_plugin.php:94
+msgid "Price"
+msgstr "Price"
+
+#: ../aomailercf_plugin.php:95
+msgid "Failed to send email notification"
+msgstr "Failed to send email notification. Error: "
+
+#: ../aomailercf_plugin.php:96
+msgid "Notification successfully sent"
+msgstr "Notification sent successfully. Message: "
+
+#: ../aomailercf_plugin.php:97
+msgid "Incorrect data"
+msgstr "Incorrect data"
+
+#: ../aomailercf_plugin.php:98
+msgid "No Answer"
+msgstr "Connection error"
+
+#: ../aomailercf_plugin.php:99
+msgid "Use prefix from Sequential Order Number plugin"
+msgstr "Use prefix from Sequential Order Number plugin"
+
+#: ../aomailercf_plugin.php:100
+msgid "To activate them, click the "Save" button in the Events tab"
+msgstr "To activate them, click the "Save" button in the Events tab"
+
+#: ../aomailercf_plugin.php:101
+msgid "New user statuses have been discovered: "
+msgstr "New user statuses have been discovered: "
+
+#: ../aomailercf_plugin.php:102
+msgid "You do not have an agreed-upon sender name. Please contact your targetSMS manager."
+msgstr "You do not have an agreed-upon sender name. Please contact your targetSMS manager."
+
+#: ../aomailercf_plugin.php:103
+msgid "SMS to administrators"
+msgstr "SMS to administrators"
+
+#: ../aomailercf_plugin.php:104
+msgid "Send SMS to administrators:"
+msgstr "Send SMS to administrators:"
+
+#: ../aomailercf_plugin.php:105
+msgid "Mobile phone numbers of Administrators:"
+msgstr "Mobile phone numbers of Administrators:"
+
+#: ../aomailercf_plugin.php:106
+msgid "Enter phone numbers in international format, for example, +79001234567. If you neet to enter several phone numbers, use a comma to separate them"
+msgstr "Enter phone numbers in international format, for example, +79001234567. If you neet to enter several phone numbers, use a comma to separate them"
+
+#: ../aomailercf_plugin.php:107
+msgid "Use tags if necessary"
+msgstr "Use tags if necessary"
+
+#: ../aomailercf_plugin.php:108
+msgid "New tags are available after form is saved."
+msgstr "New tags are available after form is saved."
+
+#: ../aomailercf_plugin.php:109
+msgid "From Name:"
+msgstr "From Name:"
+
+#: ../aomailercf_plugin.php:110
+msgid "SMS to users"
+msgstr "SMS to users"
+
+#: ../aomailercf_plugin.php:111
+msgid "Send SMS to users:"
+msgstr "Send SMS to users:"
+
+#: ../aomailercf_plugin.php:112
+msgid "User first [tel] tag from CF7 form:"
+msgstr "User first [tel] tag from CF7 form:"
+
+#: ../aomailercf_plugin.php:113
+msgid "Add a phone field to the form to send a message to the user."
+msgstr "Add a phone field to the form to send a message to the client."
+
+#: ../aomailercf_plugin.php:114
+msgid "The client"
+msgstr "The client"
+
+#: ../aomailercf_plugin.php:115
+msgid "have filled out the form on the website"
+msgstr "have filled out the form on the website"
+
+#: ../aomailercf_plugin.php:116
+msgid "Hello! You filled out the form on the website"
+msgstr "Hello! You filled out the form on the website"
+
+#: ../aomailercf_plugin.php:117
+msgid "Our manager will contact you soon"
+msgstr "Our manager will contact you soon"
+
+#: ../aomailercf_plugin.php:118
+msgid "TargetSMS.ru: SMS from Contact Form 7"
+msgstr "TargetSMS.ru: SMS messages and notifications from Contact Form 7"
+
+#: ../aomailercf_plugin.php:119
+msgid "To register in the service fill out the"
+msgstr "To register in the TargetSMS.ru service fill out the"
+
+#: ../aomailercf_plugin.php:120
+msgid "form"
+msgstr "form"
+
+#: ../aomailercf_plugin.php:121
+msgid "Instructions and Support"
+msgstr "Instructions and Support"
+
+#: ../aomailercf_plugin.php:122
+msgid "Please, visit our website to find detailed"
+msgstr "Please, visit our website to find detailed"
+
+#: ../aomailercf_plugin.php:123
+msgid "instructions"
+msgstr "instructions"
+
+#: ../aomailercf_plugin.php:124
+msgid "or send us your question to"
+msgstr "or send us your question to"
